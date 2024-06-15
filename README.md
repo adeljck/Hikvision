@@ -7,7 +7,7 @@
 
 ##  使用环境
 
-该工具只适合Windows使用，不支持Linux/Macos。
+该工具不支持Macos。
 
 ## 使用流程介绍
 
